@@ -1,0 +1,655 @@
+h1.free {
+  position: absolute;
+  width: 237px;
+  height: 24px;
+  left: 115px;
+  top: 20px;
+
+  font-style: normal;
+  font-weight: 700;
+  font-size: 24px;
+
+  line-height: 100%;
+
+  font-family: Rubik One, sans-serif;
+
+  background: linear-gradient(30deg, #5c62ec 30%, #f80091 70%, #f3096a 40%);
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  color: #0b2349;
+  display: table;
+}
+
+div.b1 {
+  position: absolute;
+  width: 1350px;
+  height: 65px;
+  left: 0px;
+  top: 0px;
+  border-radius: 30px;
+  background: #171718;
+}
+img.ig {
+  position: absolute;
+  width: 865.38px;
+  height: 650px;
+  left: 267px;
+  top: 253px;
+  border-radius: 20px;
+}
+div.igs {
+  position: absolute;
+  width: 865.38px;
+  height: 650px;
+  left: 267px;
+  top: 253px;
+
+  background-color: rgba(255, 255, 255, 0.507);
+  filter: drop-shadow(0px 5px 35px rgba(0, 0, 0, 0.267));
+  border-radius: 50px;
+}
+h1.text {
+  position: absolute;
+  width: 343px;
+  height: 31px;
+  left: 529px;
+  top: 943px;
+
+  font-family: Arial, Helvetica, sans-serif;
+  font-style: normal;
+  background: linear-gradient(10deg, #f700ff 5%, #00f7ff 52%, #ffae00 30%);
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-weight: 700;
+  font-size: 23px;
+  line-height: 130%;
+
+  text-align: center;
+  letter-spacing: -0.5px;
+
+  color: #00ff2a;
+}
+button.box {
+  box-sizing: border-box;
+
+  position: absolute;
+  width: 169px;
+  height: 48px;
+  left: 615px;
+  top: 1004px;
+
+  border: 1px solid #000000;
+  border-radius: 5px;
+}
+
+svg.cat2 {
+  position: absolute;
+  width: 24px;
+  height: 23.4px;
+  left: 635px;
+  top: 1016px;
+
+  background: #00000000;
+}
+
+html.k {
+  height: 100%;
+  background: linear-gradient(#123 30%, #667);
+}
+button:hover {
+  background: linear-gradient(50deg, #4aa1f35b 100%, #171718);
+  box-shadow: 1px 2px 40px rgb(1, 153, 255);
+}
+
+button:active {
+  transition: 2s;
+  background-color: #3e3e3e;
+  box-shadow: 0 5px #666;
+}
+
+button,
+h1.box {
+  outline: none;
+  position: absolute;
+  width: 104px;
+  height: 24px;
+  left: 648px;
+  top: 550px;
+
+  font-family: "DM Sans";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  line-height: 48px;
+
+  text-align: center;
+  letter-spacing: 0.15px;
+
+  color: #ffffff;
+
+  border: 1px solid #5c62ec;
+  padding: 0px;
+  position: absolute;
+  width: 160px;
+  height: 48px;
+  left: 620px;
+  top: 530px;
+  text-decoration: none;
+
+  background: #c5c6e600;
+  border-radius: 15px;
+}
+
+h1.git {
+  position: absolute;
+  width: 94.41px;
+  height: 22px;
+  left: 669.66px;
+  top: 1006px;
+
+  font-family: segoe print;
+  font-style: normal;
+  font-weight: 550;
+  font-size: 14px;
+  line-height: 24px;
+
+  text-align: center;
+  letter-spacing: 0.15px;
+
+  color: #000000;
+}
+
+.snow,
+.snow:before,
+.snow:after {
+  position: fixed;
+  top: -600px;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  background-image: radial-gradient(
+      4px 4px at 478px 516px,
+      rgba(255, 255, 255, 0.6) 50%,
+      rgba(0, 0, 0, 0)
+    ),
+    radial-gradient(
+      3px 3px at 244px 37px,
+      rgba(255, 255, 255, 0.6) 50%,
+      rgba(0, 0, 0, 0)
+    ),
+    radial-gradient(
+      4px 4px at 14px 525px,
+      rgba(255, 255, 255, 0.6) 50%,
+      rgba(0, 0, 0, 0)
+    ),
+    radial-gradient(6px 6px at 206px 166px, white 50%, rgba(0, 0, 0, 0)),
+    radial-gradient(
+      6px 6px at 570px 405px,
+      rgba(255, 255, 255, 0.7) 50%,
+      rgba(0, 0, 0, 0)
+    ),
+    radial-gradient(
+      5px 5px at 157px 571px,
+      rgba(255, 255, 255, 0.7) 50%,
+      rgba(0, 0, 0, 0)
+    ),
+    radial-gradient(
+      6px 6px at 172px 256px,
+      rgba(255, 255, 255, 0.8) 50%,
+      rgba(0, 0, 0, 0)
+    ),
+    radial-gradient(
+      5px 5px at 340px 478px,
+      rgba(255, 255, 255, 0.6) 50%,
+      rgba(0, 0, 0, 0)
+    ),
+    radial-gradient(
+      6px 6px at 569px 58px,
+      rgba(255, 255, 255, 0.8) 50%,
+      rgba(0, 0, 0, 0)
+    ),
+    radial-gradient(5px 5px at 234px 527px, white 50%, rgba(0, 0, 0, 0)),
+    radial-gradient(
+      4px 4px at 204px 328px,
+      rgba(255, 255, 255, 0.9) 50%,
+      rgba(0, 0, 0, 0)
+    ),
+    radial-gradient(
+      4px 4px at 313px 148px,
+      rgba(255, 255, 255, 0.7) 50%,
+      rgba(0, 0, 0, 0)
+    ),
+    radial-gradient(
+      6px 6px at 309px 203px,
+      rgba(255, 255, 255, 0.7) 50%,
+      rgba(0, 0, 0, 0)
+    ),
+    radial-gradient(
+      5px 5px at 556px 325px,
+      rgba(255, 255, 255, 0.8) 50%,
+      rgba(0, 0, 0, 0)
+    ),
+    radial-gradient(
+      3px 3px at 294px 594px,
+      rgba(255, 255, 255, 0.6) 50%,
+      rgba(0, 0, 0, 0)
+    ),
+    radial-gradient(5px 5px at 293px 63px, white 50%, rgba(0, 0, 0, 0)),
+    radial-gradient(
+      3px 3px at 538px 509px,
+      rgba(255, 255, 255, 0.8) 50%,
+      rgba(0, 0, 0, 0)
+    ),
+    radial-gradient(
+      6px 6px at 389px 17px,
+      rgba(255, 255, 255, 0.9) 50%,
+      rgba(0, 0, 0, 0)
+    ),
+    radial-gradient(
+      4px 4px at 143px 79px,
+      rgba(255, 255, 255, 0.7) 50%,
+      rgba(0, 0, 0, 0)
+    ),
+    radial-gradient(
+      5px 5px at 237px 148px,
+      rgba(255, 255, 255, 0.6) 50%,
+      rgba(0, 0, 0, 0)
+    ),
+    radial-gradient(
+      3px 3px at 137px 436px,
+      rgba(255, 255, 255, 0.9) 50%,
+      rgba(0, 0, 0, 0)
+    ),
+    radial-gradient(
+      4px 4px at 392px 349px,
+      rgba(255, 255, 255, 0.8) 50%,
+      rgba(0, 0, 0, 0)
+    ),
+    radial-gradient(
+      6px 6px at 566px 557px,
+      rgba(255, 255, 255, 0.9) 50%,
+      rgba(0, 0, 0, 0)
+    ),
+    radial-gradient(
+      4px 4px at 128px 346px,
+      rgba(255, 255, 255, 0.6) 50%,
+      rgba(0, 0, 0, 0)
+    ),
+    radial-gradient(
+      3px 3px at 354px 519px,
+      rgba(255, 255, 255, 0.6) 50%,
+      rgba(0, 0, 0, 0)
+    ),
+    radial-gradient(
+      4px 4px at 303px 361px,
+      rgba(255, 255, 255, 0.9) 50%,
+      rgba(0, 0, 0, 0)
+    ),
+    radial-gradient(
+      4px 4px at 564px 519px,
+      rgba(255, 255, 255, 0.6) 50%,
+      rgba(0, 0, 0, 0)
+    ),
+    radial-gradient(
+      3px 3px at 431px 171px,
+      rgba(255, 255, 255, 0.8) 50%,
+      rgba(0, 0, 0, 0)
+    ),
+    radial-gradient(
+      3px 3px at 441px 179px,
+      rgba(255, 255, 255, 0.6) 50%,
+      rgba(0, 0, 0, 0)
+    ),
+    radial-gradient(4px 4px at 103px 493px, white 50%, rgba(0, 0, 0, 0)),
+    radial-gradient(
+      4px 4px at 588px 443px,
+      rgba(255, 255, 255, 0.9) 50%,
+      rgba(0, 0, 0, 0)
+    ),
+    radial-gradient(
+      4px 4px at 382px 488px,
+      rgba(255, 255, 255, 0.9) 50%,
+      rgba(0, 0, 0, 0)
+    ),
+    radial-gradient(
+      4px 4px at 180px 7px,
+      rgba(255, 255, 255, 0.9) 50%,
+      rgba(0, 0, 0, 0)
+    ),
+    radial-gradient(
+      3px 3px at 346px 359px,
+      rgba(255, 255, 255, 0.7) 50%,
+      rgba(0, 0, 0, 0)
+    ),
+    radial-gradient(
+      6px 6px at 306px 141px,
+      rgba(255, 255, 255, 0.8) 50%,
+      rgba(0, 0, 0, 0)
+    ),
+    radial-gradient(
+      5px 5px at 283px 34px,
+      rgba(255, 255, 255, 0.8) 50%,
+      rgba(0, 0, 0, 0)
+    ),
+    radial-gradient(
+      4px 4px at 253px 92px,
+      rgba(255, 255, 255, 0.7) 50%,
+      rgba(0, 0, 0, 0)
+    ),
+    radial-gradient(
+      3px 3px at 481px 65px,
+      rgba(255, 255, 255, 0.8) 50%,
+      rgba(0, 0, 0, 0)
+    ),
+    radial-gradient(3px 3px at 75px 49px, white 50%, rgba(0, 0, 0, 0)),
+    radial-gradient(
+      4px 4px at 55px 282px,
+      rgba(255, 255, 255, 0.8) 50%,
+      rgba(0, 0, 0, 0)
+    ),
+    radial-gradient(
+      6px 6px at 259px 15px,
+      rgba(255, 255, 255, 0.9) 50%,
+      rgba(0, 0, 0, 0)
+    ),
+    radial-gradient(
+      6px 6px at 415px 200px,
+      rgba(255, 255, 255, 0.6) 50%,
+      rgba(0, 0, 0, 0)
+    ),
+    radial-gradient(
+      3px 3px at 242px 244px,
+      rgba(255, 255, 255, 0.7) 50%,
+      rgba(0, 0, 0, 0)
+    ),
+    radial-gradient(
+      6px 6px at 250px 8px,
+      rgba(255, 255, 255, 0.7) 50%,
+      rgba(0, 0, 0, 0)
+    ),
+    radial-gradient(
+      5px 5px at 217px 433px,
+      rgba(255, 255, 255, 0.8) 50%,
+      rgba(0, 0, 0, 0)
+    ),
+    radial-gradient(
+      4px 4px at 242px 243px,
+      rgba(255, 255, 255, 0.6) 50%,
+      rgba(0, 0, 0, 0)
+    ),
+    radial-gradient(
+      5px 5px at 362px 212px,
+      rgba(255, 255, 255, 0.7) 50%,
+      rgba(0, 0, 0, 0)
+    ),
+    radial-gradient(
+      5px 5px at 347px 37px,
+      rgba(255, 255, 255, 0.7) 50%,
+      rgba(0, 0, 0, 0)
+    ),
+    radial-gradient(
+      4px 4px at 361px 64px,
+      rgba(255, 255, 255, 0.9) 50%,
+      rgba(0, 0, 0, 0)
+    ),
+    radial-gradient(
+      4px 4px at 188px 31px,
+      rgba(255, 255, 255, 0.7) 50%,
+      rgba(0, 0, 0, 0)
+    ),
+    radial-gradient(
+      4px 4px at 134px 489px,
+      rgba(255, 255, 255, 0.8) 50%,
+      rgba(0, 0, 0, 0)
+    ),
+    radial-gradient(
+      3px 3px at 99px 448px,
+      rgba(255, 255, 255, 0.8) 50%,
+      rgba(0, 0, 0, 0)
+    ),
+    radial-gradient(
+      4px 4px at 450px 305px,
+      rgba(255, 255, 255, 0.6) 50%,
+      rgba(0, 0, 0, 0)
+    ),
+    radial-gradient(
+      4px 4px at 282px 562px,
+      rgba(255, 255, 255, 0.7) 50%,
+      rgba(0, 0, 0, 0)
+    ),
+    radial-gradient(
+      6px 6px at 97px 591px,
+      rgba(255, 255, 255, 0.7) 50%,
+      rgba(0, 0, 0, 0)
+    ),
+    radial-gradient(
+      4px 4px at 216px 188px,
+      rgba(255, 255, 255, 0.6) 50%,
+      rgba(0, 0, 0, 0)
+    ),
+    radial-gradient(
+      6px 6px at 212px 336px,
+      rgba(255, 255, 255, 0.6) 50%,
+      rgba(0, 0, 0, 0)
+    ),
+    radial-gradient(
+      6px 6px at 496px 336px,
+      rgba(255, 255, 255, 0.7) 50%,
+      rgba(0, 0, 0, 0)
+    ),
+    radial-gradient(4px 4px at 286px 454px, white 50%, rgba(0, 0, 0, 0)),
+    radial-gradient(
+      6px 6px at 323px 79px,
+      rgba(255, 255, 255, 0.7) 50%,
+      rgba(0, 0, 0, 0)
+    ),
+    radial-gradient(
+      4px 4px at 223px 438px,
+      rgba(255, 255, 255, 0.8) 50%,
+      rgba(0, 0, 0, 0)
+    ),
+    radial-gradient(
+      3px 3px at 367px 415px,
+      rgba(255, 255, 255, 0.8) 50%,
+      rgba(0, 0, 0, 0)
+    ),
+    radial-gradient(
+      6px 6px at 569px 463px,
+      rgba(255, 255, 255, 0.6) 50%,
+      rgba(0, 0, 0, 0)
+    ),
+    radial-gradient(
+      5px 5px at 538px 69px,
+      rgba(255, 255, 255, 0.8) 50%,
+      rgba(0, 0, 0, 0)
+    ),
+    radial-gradient(
+      4px 4px at 242px 463px,
+      rgba(255, 255, 255, 0.7) 50%,
+      rgba(0, 0, 0, 0)
+    ),
+    radial-gradient(
+      6px 6px at 12px 285px,
+      rgba(255, 255, 255, 0.7) 50%,
+      rgba(0, 0, 0, 0)
+    ),
+    radial-gradient(
+      5px 5px at 258px 533px,
+      rgba(255, 255, 255, 0.7) 50%,
+      rgba(0, 0, 0, 0)
+    ),
+    radial-gradient(
+      3px 3px at 300px 170px,
+      rgba(255, 255, 255, 0.6) 50%,
+      rgba(0, 0, 0, 0)
+    ),
+    radial-gradient(
+      5px 5px at 328px 579px,
+      rgba(255, 255, 255, 0.6) 50%,
+      rgba(0, 0, 0, 0)
+    ),
+    radial-gradient(
+      3px 3px at 194px 249px,
+      rgba(255, 255, 255, 0.8) 50%,
+      rgba(0, 0, 0, 0)
+    );
+  background-size: 600px 600px;
+  animation: snow 5000s linear infinite;
+  animation-iteration-count: infinite;
+  animation-fill-mode: both;
+  -webkit-animation-fill-mode: both;
+  content: "";
+}
+
+.snow:after {
+  margin-left: -200px;
+  opacity: 0.4;
+  animation-duration: 6s;
+  animation-direction: reverse;
+  filter: blur(3px);
+}
+
+.snow:before {
+  animation-duration: 9s;
+  animation-direction: reverse;
+  margin-left: -300px;
+  opacity: 0.65;
+  filter: blur(1.5px);
+}
+
+@keyframes snow {
+  to {
+    transform: translateY(1900px);
+  }
+}
+
+h1.contacts1 {
+  position: absolute;
+  width: 266px;
+  height: 78px;
+  left: 567px;
+  top: 135px;
+
+  font-family: "DM Sans";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 60px;
+  line-height: 130%;
+
+  text-align: center;
+  letter-spacing: -0.5px;
+
+  color: #5c62ec;
+}
+
+h1.contacts2 {
+  position: absolute;
+  width: 165px;
+  height: 52px;
+  left: 618px;
+  top: 253px;
+
+  font-family: "DM Sans";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 130%;
+
+  text-align: center;
+  letter-spacing: -0.5px;
+
+  color: #5df300;
+}
+h1.contacts3 {
+  position: absolute;
+  width: 570px;
+  height: 27px;
+  left: 415px;
+  top: 325px;
+
+  font-family: "DM Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 150%;
+
+  text-align: center;
+  letter-spacing: -0.5px;
+
+  color: #ff1e00;
+}
+h1.contacts4 {
+  position: absolute;
+  width: 410px;
+  height: 52px;
+  left: 495px;
+  top: 392px;
+
+  font-family: "DM Sans";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 130%;
+
+  text-align: center;
+  letter-spacing: -0.5px;
+
+  color: #5df300;
+}
+h1.contacts5 {
+  position: absolute;
+  width: 308px;
+  height: 27px;
+  left: 546px;
+  top: 464px;
+
+  font-family: "DM Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 150%;
+
+  text-align: center;
+  letter-spacing: -0.5px;
+
+  color: #ff1e00;
+}
+h1.contacts6 {
+  position: absolute;
+  width: 103px;
+  height: 52px;
+  left: 649px;
+  top: 531px;
+
+  font-family: "DM Sans";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 130%;
+
+  text-align: center;
+  letter-spacing: -0.5px;
+
+  color: #09ffd2;
+}
+h1.contacts7 {
+  position: absolute;
+  width: 308px;
+  height: 27px;
+  left: 546px;
+  top: 603px;
+
+  font-family: "DM Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 150%;
+
+  text-align: center;
+  letter-spacing: -0.5px;
+
+  color: #5c62ec;
+}
